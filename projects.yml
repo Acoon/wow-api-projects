@@ -1,4 +1,9 @@
 -
+  language: "PHP"
+  name: "PHP WoW Battle.net Armory API"
+  author: "Acoon"
+  project: "http://sourceforge.net/projects/wowarmoryapi/"
+-
   language: "Ruby"
   name: "Battlenet"
   author: "Cyaga"
